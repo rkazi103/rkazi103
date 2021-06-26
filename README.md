@@ -3,7 +3,7 @@
 I am a passionate developer who solves problems through projects
 
 ## 👨🏻‍💻 About Me
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Next JS
 - 👯 I’m looking to collaborate on anything related to web development!
 - 😄 Pronouns: he/him
 
