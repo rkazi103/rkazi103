@@ -3,7 +3,7 @@
 I am a passionate developer who solves problems through projects
 
 ## 👨🏻‍💻 About Me
-- 🌱 I’m currently learning Next JS
+- 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on anything related to web development!
 - 😄 Pronouns: he/him
 
@@ -12,9 +12,12 @@ I am a passionate developer who solves problems through projects
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-## Contact Me
+
+## Find Me
 - <a href="mailto:rayan.quack.you@gmail.com">Email Me</a> 
+- <a href="https://rkazi103.medium.com/">Read Some of My Blogs</a> 
 
 [![Rayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkazi103)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rkazi103&langs_count=5&theme=default)]()
