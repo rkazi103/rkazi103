@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Rayan's+Profile;)](https://git.io/typing-svg)
 
 # Hi, I'm Rayan! 👋
 
@@ -16,8 +17,7 @@ I'm a developer who loves to solve problems through building projects. I am curr
 
 
 ## 🔗 Links
-- <a href="mailto:rayan.quack.you@gmail.com">Email Me</a> 
-- <a href="https://rkazi103.medium.com/">Read Some of My Blogs</a> 
+- <a href="https://rkazi103.hashnode.dev/">Read Some of My Blogs</a> 
 
 <!--
 ## 🔗 Links
